@@ -1,4 +1,4 @@
-import https://github.com/dsdanielpark/Bard-API.git as bardapi
+import "https://github.com/dsdanielpark/Bard-API" as bardapi
 import os
 
 # set your __Secure-1PSID value to key
